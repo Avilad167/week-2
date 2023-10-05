@@ -1,0 +1,1 @@
+print('''This string containing a backslash(\),\n ''a single quote(') 'and is split across multiple lines ''')
