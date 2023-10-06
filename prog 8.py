@@ -1,0 +1,7 @@
+a=input('enter a number')
+b=input('enter 2 number')
+a=int(a)
+b=int(b)
+print("the value of a is",a ,"the valueof b is",b)
+print('the sum of a and b is',a+b)
+print('the product of a and b is',a*b)
